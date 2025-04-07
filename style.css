@@ -59,6 +59,10 @@ input{
     margin-bottom: 2rem;
 }
 
+input:focus{
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
 button{
     padding: 0.2rem 0.8rem;
     background: #313131;
